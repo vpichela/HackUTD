@@ -1,0 +1,6 @@
+framework module Pods_fbauth {
+  umbrella header "Pods-fbauth-umbrella.h"
+
+  export *
+  module * { export * }
+}
